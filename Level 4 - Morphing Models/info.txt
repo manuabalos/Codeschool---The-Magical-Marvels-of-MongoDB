@@ -1,0 +1,1 @@
+Este nivel no contine PDF. Trata sobre elegir una relacion referencial o embebida dependiendo de la información con la que estemos trabajando.
